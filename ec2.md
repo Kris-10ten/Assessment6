@@ -1,3 +1,5 @@
 ## Paste your link below
 
-http://3.84.20.164/
+http://54.144.68.18/
+
+## Instance will be stopped for now
